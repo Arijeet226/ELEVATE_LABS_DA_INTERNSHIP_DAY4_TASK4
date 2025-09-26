@@ -165,5 +165,4 @@ LIMIT 1;
 ```
 ![](https://github.com/Arijeet226/ELEVATE_LABS_DA_INTERNSHIP_DAY4_TASK4/blob/cf603642292a58ea88976fcef29c8854cb784b81/Final_output_task4_SS/Screenshot%202025-09-26%20185820.png)
 
-
-
+# --THANK YOU--
